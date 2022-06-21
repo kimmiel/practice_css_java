@@ -1,0 +1,31 @@
+.error{
+    color: SkyBlue ;
+    padding: 25px 50px;
+    border: 3px dotted LightSteelBlue  ;
+}
+.head{
+    margin: 50px;
+    font-size: 50px;
+    color:RoyalBlue  ;
+    display: flex;/*置中*/
+    justify-content: center; /*置中*/
+    align-items: center; /*置中*/
+}
+.Lux{
+    color: LightPink;
+    padding: 25px 50px;/*好看的格式*/
+    border: 3px dotted MistyRose ;/*點點*/
+}
+.mysta{
+    color: NavajoWhite ;
+    padding: 25px 50px;/*好看的格式*/
+    border: 3px dotted Cornsilk ;/*點點*/
+}
+.head_two{
+    margin: 50px;
+    font-size: 50px;
+    color:NavajoWhite  ;
+    display: flex;/*置中*/
+    justify-content: center; /*置中*/
+    align-items: center; /*置中*/
+}
